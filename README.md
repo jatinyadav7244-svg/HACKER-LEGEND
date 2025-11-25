@@ -63,6 +63,4 @@ I am a software engineer working with full-stack applications. I build scalable 
 
 ---
 
-## 🏆 Achievements & Badges
-![Profile Views](https://komarev.com/ghpvc/?username=jatinyadav7244-svg&color=blue)
-![Repos](https://badges.pufler.dev/repos/jatinyadav7244-svg)
+ 
